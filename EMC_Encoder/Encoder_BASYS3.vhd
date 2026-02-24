@@ -1,20 +1,10 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date: 11/16/2025 04:38:34 PM
--- Design Name: 
--- Module Name: Encoder_BASYS3 - Encoder_BASYS3_ARCH
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
+--Encoder_BASYS3
+--Cynthia Babecka and McCleland Idaewor
+--
+-- This is the wrapper for the Encoder, activates the BASYS3 board and makes it 
+-- ready for interaction with the Encoder
+--
 -- 
 ----------------------------------------------------------------------------------
 ---
@@ -313,4 +303,5 @@ begin
 	end process;
 
     
+
 end Encoder_BASYS3_ARCH;
