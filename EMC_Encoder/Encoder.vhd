@@ -1,5 +1,5 @@
 --==============================================================
---Rotary encoder Single LED
+--Encoder
 --Cynthia Babecka and McCleland Idaewor
 --
 -- This design takes the input from the Pmod encoder, filters
@@ -242,4 +242,5 @@ begin
      
         
       
+
                  
